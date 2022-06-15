@@ -1,5 +1,5 @@
 # Bybit Clients Position Manager
-A clients manager created in Vue.js and using MongoDB as a database storage.
+A Bybit clients manager created in Vue.js and using MongoDB as a database storage.
 
 ## **Features**:
 - Display open position from all clients in the database
@@ -12,9 +12,6 @@ A clients manager created in Vue.js and using MongoDB as a database storage.
 ## **Installation**:
 Run npm i in the working directory and in client folder
 
-To run the project cd into the managers client directory and enter the following command : 
-npm run serve
-To start the server enter the following command in the working directory :
-npm start
+To run the project cd into the managers client directory and enter the following command :\n npm run serve\nTo start the server enter the following command in the working directory :\nnpm start
 
 ![Design preview for the Manager](./design/desktop-preview.png)
