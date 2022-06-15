@@ -12,6 +12,6 @@ A Bybit clients manager created in Vue.js and using MongoDB as a database storag
 ## **Installation**:
 Run npm i in the working directory and in client folder
 
-To run the project cd into the managers client directory and enter the following command :<br/> npm run serve</br/>To start the server enter the following command in the working directory :<br/>npm start
+To run the project cd into the managers client directory and enter the following command :<br/> npm run serve<br/>To start the server enter the following command in the working directory :<br/>npm start
 
 ![Design preview for the Manager](./design/desktop-preview.png)
